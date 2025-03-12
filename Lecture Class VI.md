@@ -9,4 +9,4 @@ Deep Learning
 - Pooping คือทำเหมือน Convalution แต่จะเอาจุดที่เด่นที่สุดของ window แล้ว
 - Dropout คือการสุ่มปิด/เปิด โหนด แต่ละ forward
 
-![ภาพการสอน](https://drive.google.com/file/d/1bddAhsYB84S6r09C8qfuzfbIqVHa_cyj/view)
+![ภาพการสอน]([https://drive.google.com/file/d/1bddAhsYB84S6r09C8qfuzfbIqVHa_cyj/view](https://drive.google.com/file/d/1bddAhsYB84S6r09C8qfuzfbIqVHa_cyj/view?usp=sharing))
