@@ -118,8 +118,8 @@ $coda deactivate
 
 *** การบ้าน ***
 
-[Homework การสร้างหน้าเว็ปไซต์ด้วย python flask](call_web_service.py)
+[Homework การสร้างหน้าเว็ปไซต์ด้วย python flask](my_First_py.py)
 
-[Homework การเซิฟเวอร์คุยหากันและกัน](call_web_service.py)
+[Homework การเซิฟเวอร์คุยหากันและกัน](firstflask.py)
 
 [Homework หน้า linux รับข้อมูล](call_web_service.py)
