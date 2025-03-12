@@ -8,5 +8,6 @@ Deep Learning
 - Convalution คือการ นำข้อมูลตารางบ้างส่วนคูณกันแล้วเป็น 1 พื้นที่
 - Pooping คือทำเหมือน Convalution แต่จะเอาจุดที่เด่นที่สุดของ window แล้ว
 - Dropout คือการสุ่มปิด/เปิด โหนด แต่ละ forward
+- ภาพด้านล่างนี้คือภาพการเรียนการสอน
 
-![ภาพการสอน](https://drive.google.com/file/d/1bddAhsYB84S6r09C8qfuzfbIqVHa_cyj/view?usp=sharing)
+![ภาพการสอน](image/DL.png)
