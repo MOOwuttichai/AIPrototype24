@@ -114,3 +114,9 @@ $conda create -n myenv <name of packger>
 $coda activate <my-env>
 
 $coda deactivate
+
+*** การบ้าน ***
+
+[Homework การสร้างหน้าเว็ปไซต์ด้วย python flask](my_First_py.py)
+
+[Homework การเซิฟเวอร์คุยหากันและกัน](call_web_service.py)
