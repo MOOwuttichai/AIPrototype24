@@ -50,7 +50,16 @@ and API development with Python, deep learning with Python, logging, and dashboa
 4.เเก้เว็ปไซต์หน้า Data Visualization (เพิ่มกราฟ เเละ เเก้ปัญหา)  
 5.เเก้เล่ม Project โดยการออกแบบการทดลองในบทสามอย่างละเอียดๆ และ ผลการประเมินอัทกอริทึลของระบบ  
 6.การประเมินอัทกอริทึลของระบบ  
-
+## เรื่องที่เรียน
+|  CLASS  |    DATE    |      DESCRIPTION      |             LECTURE             | 
+|:-------:|:----------:|:---------------------:|:-------------------------------:|
+|   I     |  02/12/67  | Ubuntu Command Line   | [`Lecture Class I.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20I.md)  |
+|   II    |  11/12/67  | Virtual Machines      | [`Lecture Class II.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20II.md) |
+|   III   |  24/12/67  | CloudVM               | [`Lecture Class III.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20III.md)|
+|   IV    |  07/01/68  | Web page              | [`Lecture Class IV.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20IV.md) |
+|   V     |  21/01/68  | Environment Conda     | [`Lecture Class V.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20V.md)  |
+|   VI    |  19/02/68  | Web Service           | [`Lecture Class VI.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20VI.md) |
+|   VII   |  11/03/68  | Deep Learning         | [`Lecture Class VII.md`](https://github.com/MOOwuttichai/AIPrototype24/blob/main/Lecture%20Class%20VII.pdf) |
 ## How to start
 [link for guideinstarll](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1ucrIMVO-4pzv2_OoIB4JxZxY-oSVZrVv%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0bUHTC5VxIZdEAf989vNqZhF_ssXDiGnJ-cyKN2btjxiBENNY5yYKpkzE_aem_3msFBiaAvZJ800BAVFDxQw&h=AT0h9wvL9gXL3QngPZtQka90k4LJo5_3ZshYp-WACXhDxA9QnQF3uDpT4DdVQ46sVG4_Xr95FFOwiNly6imbeAelBeCDzmPM5zL8cN6j7d9cMvhvMrcH2rdRQxavW-r3w1Up&__tn__=-UK-R&c[0]=AT3YCy9vGA96AaiSZNNOcrK3r6WF9Ae9ApWgRNKNbcVprvOkZkrSJWnNp6s8KmnpFugCjO1nJe03SlkGndWJRhaodkTFe3BGTs0U1OKL0h2ZlR3cQS8LJwZP2jIdCQJzXXB2swJyMALnh_6DDVtLSKc3F1GGkyUAwPz5soofPBYfkY_b9X0ebmjXkPbXpPM8nm4lx3erG9svP0hPpOQk5d3m2RL-TA)
 
